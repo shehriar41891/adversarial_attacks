@@ -2,3 +2,7 @@ torch
 torchvision
 torchaudio
 foolbox
+fastapi
+streamlit
+uvicorn
+python-multipart
